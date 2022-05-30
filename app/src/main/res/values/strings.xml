@@ -2,9 +2,29 @@
     <string name="app_name">TabsDemo</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
-    <string-array name="cities">
-        <item>Иркутск</item>
-        <item>Москва</item>
-        <item>Воронеж</item>
+    <string-array name="films">
+        <item>Боевики</item>
+        <item>Драммы</item>
+        <item>Комедии</item>
+    </string-array>
+    <string-array name="action">
+        <item>Выживший</item>
+        <item>Логан</item>
+        <item>Властелин Колец</item>
+        <item>Грань Будущего</item>
+        <item>Дедпул</item>
+    </string-array>
+    <string-array name="drama">
+        <item>Побег из Шоушенка</item>
+        <item>Молчание ягнят</item>
+        <item>Проклятый путь</item>
+        <item>Интерстеллар</item>
+        <item>12 лет рабства</item>
+        <item>Кролик Джоджо</item>
+    </string-array>
+    <string-array name="comedy">
+        <item>Назад в будущее</item>
+        <item>Большой Лебовски</item>
+        <item>Эйс Вентура</item>
     </string-array>
 </resources>
